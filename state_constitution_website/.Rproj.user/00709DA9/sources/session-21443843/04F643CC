@@ -1,12 +1,12 @@
 {
-    "id": "404BAA22",
-    "path": "~/GitHub/state_constitution_analysis/state_constitution/_quarto.yml",
+    "id": "04F643CC",
+    "path": "~/GitHub/state_constitution_analysis/state_constitution_website/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1712082219288.0,
+    "created": 1712082456029.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -14,11 +14,11 @@
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712082190,
+    "lastKnownWriteTime": 1712082450,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712082190,
+    "last_content_update": 1712082450,
     "read_only": false,
     "read_only_alternatives": []
 }
